@@ -1,8 +1,10 @@
 ## Olá eu sou o Jean Robert
 
-- 🌱 Estudando Angular, Node 
-- Veja meu ultimo projeto: [alurakut](https://github.com/jeanrobertt/alurakut)
+Sou estudante de Análise e Desenvolvimento de Sistemas. Atualmente, estou cursando Java e MySQL na faculdade, fazendo freelance e trabalhando em projetos pessoais. Estou disponível para oportunidades de emprego.
 
+### Veja meu último projeto: [alurakut](https://github.com/jeanrobertt/alurakut)
+
+<br>
 <div align="center">
   <a href="https://github.com/jeanrobertt">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=jeanrobertt&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>

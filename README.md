@@ -7,7 +7,7 @@ Sou estudante de Análise e Desenvolvimento de Sistemas. Atualmente, estou cursa
 <br>
 <div align="center">
   <a href="https://github.com/jeanrobertt">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=jeanrobertt&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
+<!--   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=jeanrobertt&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/> -->
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jeanrobertt&layout=compact&theme=dark"/>
 </div>
   <div>
